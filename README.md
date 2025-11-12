@@ -30,7 +30,7 @@
 ### 📂 Featured Projects  
 | 🚀 Project | Description | Tech |
 |-------------|--------------|------|
-| 💡 [**Programming Technique I**](#) | SECJ1013 // A repository of my current practice codes & assignments | `C++` `Flowchart` `Pseudocodes` |
+| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | SECJ1013 // A repository of my current practice codes & assignments | `C++` `Flowchart` `Pseudocodes` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*  
 ---
