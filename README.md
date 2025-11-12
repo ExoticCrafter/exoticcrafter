@@ -1,7 +1,5 @@
-<!-- 🌟 EXOTICCRAFTER | UTM THEMED GITHUB README 🌟 -->
-
 <p align="center">
-  <img src="https://chancellery.utm.my/wp-content/uploads/sites/21/2016/08/jointlogo.jpeg" alt="UTM Logo" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/UTM-LOGO-FULL.png/1200px-UTM-LOGO-FULL.png" alt="UTM Logo" width="120"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
@@ -21,21 +19,18 @@
 
 ### 🛠️ Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,,python,html,js,react,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
 
-<!--
+
 ### 📂 Featured Projects  
 | 🚀 Project | Description | Tech |
 |-------------|--------------|------|
-| 💡 [**DataCleanse**](#) | An ETL pipeline that transforms messy CSVs into clean datasets | `Python` `Pandas` `SQLite` |
-| 🧠 [**SmartQuery**](#) | SQL-powered chatbot for querying structured data | `Python` `LangChain` `MySQL` |
-| 🌐 [**UTM Portal Clone**](#) | A redesigned, responsive academic dashboard | `React` `Tailwind` |
+| 💡 [**Programming Technique I**](#) | SECJ1013 // A repository of my current practice codes & assignments | `C++` `Flowchart` `Pseudocodes` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*  
--->
 ---
 
 ### 📊 GitHub Insights  
