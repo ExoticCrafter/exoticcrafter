@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chancellery.utm.my/wp-content/uploads/sites/21/2016/08/jointlogo.jpeg" alt="UTM Logo" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="UTM Logo" width="120"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
