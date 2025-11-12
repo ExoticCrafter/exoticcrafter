@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/UTM-LOGO-FULL.png/1200px-UTM-LOGO-FULL.png" alt="UTM Logo" width="120"/>
+  <img src="https://chancellery.utm.my/wp-content/uploads/sites/21/2016/08/jointlogo.jpeg" alt="UTM Logo" width="120"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
@@ -8,6 +8,8 @@
 ---
 
 ### 🧠 About Me  
+- 😉 My name : **Muhammad Hafiz Bin Suhaili**
+- 🌚 Currently **YEAR 1** student
 - 💻 Passionate about **data-driven development** and **problem-solving**  
 - 📊 Exploring the world of **AI, machine learning**, and **data engineering**  
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**  
