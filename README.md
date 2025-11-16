@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
-<h3 align="center" style="color:#b8860b;">🎓 Bachelor of Computer Science (Data Engineering) with Honours @ UTM</h3>
+<h2 align="center" style="color:#b8860b;">🎓 Bachelor of Computer Science (Data Engineering) with Honours @ UTM</h2>
 <h3 align="center" style="color:#b8860b;">Faculty of Computing (FC)</h3>
 
 
