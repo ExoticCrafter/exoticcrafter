@@ -11,7 +11,7 @@
 
 ### 🧠 About Me  
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
-- 🌚 Currently **YEAR 1** student (SECPH)
+- 🌚 Currently **YEAR 1** student *(SECPH)*
 - 💻 Passionate about **data-driven development** and **problem-solving**  
 - 📊 Exploring the world of **AI, machine learning**, and **data engineering**  
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**  
