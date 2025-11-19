@@ -1,4 +1,4 @@
-<p align="center">
+`<p align="center">
   <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="UTM Logo" width="120"/>
 </p>
 
@@ -32,7 +32,7 @@
 ### 📂 Featured Projects  
 | 🚀 Project | Description | Tech |
 |-------------|--------------|------|
-| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | SECJ1013 // A repository of my current practice codes & assignments | `C++` `Flowchart` `Pseudocodes` |
+| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | SECJ1013 // A repository of my current practice codes & assignments | `C++` `Flowchart` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*  
 ---
