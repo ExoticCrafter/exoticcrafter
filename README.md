@@ -16,7 +16,7 @@
 - 📊 Exploring the world of **AI, machine learning**, and **data engineering**  
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**  
 - 🌱 Always learning something new — *because growth never stops*  
-- 🎯 Vision: *To turn raw data into meaningful insights*  
+- 🏫 Prior Education: SMK Taman Perwira  
 - ⚡ Fun fact: I sometimes debug with chillstep music 🎧  
 
 ---
