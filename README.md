@@ -12,7 +12,7 @@
 ### 🧠 About Me  
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently **YEAR 1** student *(SECPH)*
-- 📸 Instagram: [luminous_evernight](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 📸 Instagram: [charles_leclerc](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 📊 Exploring the world of **AI, machine learning**, and **data engineering**  
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**  
 - 📧 Contact me: [muhammadhafiz.s@graduate.utm.my](mailto:muhammadhafiz.s@graduate.utm.my)
