@@ -15,7 +15,7 @@
 - 💻 Passionate about **data-driven development** and **problem-solving**  
 - 📊 Exploring the world of **AI, machine learning**, and **data engineering**  
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**  
-- 🌱 Always learning something new — *because growth never stops*  
+- 📧 Contact me: [muhammadhafiz.s@graduate.utm.my](mailto:muhammadhafiz.s@graduate.utm.my)
 - 🏫 Prior Education: SMK Taman Perwira  
 - ⚡ Fun fact: I sometimes debug with chillstep music 🎧  
 
