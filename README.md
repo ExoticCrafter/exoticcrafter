@@ -23,8 +23,10 @@
 
 ### 🏆 Education & Achievements
 * **Setiausaha Lembaga Pengawas Sekolah** - *Coordinated tasks, managed disciplinary issues among students and serves as Human Resource for the school prefect*
+* **Lembaga Pengawas Sekolah** - *Helped teachers and fellow prefect in controlling disciplinary issues, managed school events, and become an aspiring class leader*
 * **Jawatankuasa Kolej Pelajar Kolej Tun Razak 2025** - *Exco Sukan dan Rekreasi*
-* **Secretary - UTM Games 2025 KTR** - *Managed 273 athletes KTR merit, coordinated with college fellow with logistics*
+* **Secretary - UTM Games 2025 KTR** - *Managed 273 athletes KTR merit, coordinated with college fellow with logistics, operation and risk management*
+* **MUET Band 5.0**
 
 ---
 
