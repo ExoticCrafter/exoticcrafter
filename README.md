@@ -54,7 +54,6 @@
 
 ### 📊 My Activity Hub
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ExoticCrafter&show_icons=true&theme=maroongold&title_color=b8860b&icon_color=b8860b&text_color=ffffff&bg_color=0d0d0d" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" />
 </p>
 <p align="center">
