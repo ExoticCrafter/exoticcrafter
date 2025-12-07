@@ -32,9 +32,12 @@
 
 ---
 
-### 💡 Daily Motivation
+### 📊 My Activity Hub
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=maroongold&font=Marcellus" alt="Daily Coding Quote" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000" alt="Profile views" />
 </p>
 
 ---
@@ -54,10 +57,7 @@
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*  
 ---
 
-### 📊 My Activity Hub
+### 💡 Daily Motivation
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000" alt="Profile views" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=maroongold&font=Marcellus" alt="Daily Coding Quote" />
 </p>
