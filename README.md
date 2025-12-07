@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="UTM Logo" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="UTM Logo" width="120"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
@@ -9,15 +9,13 @@
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me  
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently **YEAR 1** student *(SECPH)*
 - 📸 Instagram: [charles_leclerc](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- 📊 Exploring the world of **AI, machine learning**, and **data engineering**  
-- 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**  
-- 📧 Contact me: [muhammadhafiz.s@graduate.utm.my](mailto:muhammadhafiz.s@graduate.utm.my)
-- 🏫 Prior Education: SMK Taman Perwira  
-- ⚡ Fun fact: I sometimes debug with chillstep music 🎧  
+- 📊 Exploring the world of **AI, machine learning**, and **data engineering** - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)** - 📧 Contact me: [muhammadhafiz.s@graduate.utm.my](mailto:muhammadhafiz.s@graduate.utm.my)
+- 🏫 Prior Education: SMK Taman Perwira  
+- ⚡ Fun fact: I sometimes debug with chillstep music 🎧  
 
 ---
 
@@ -34,28 +32,29 @@
 
 ### 📊 My Activity Hub
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
+  <img width="48%" src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExoticCrafter&bg_color=0d0d0d&color=b8860b&line=800000&point=b8860b&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🛠️ Tech Arsenal  
+### 🛠️ Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📂 Featured Projects  
+### 📂 Featured Projects  
 | 🚀 Project | Description | Tech |
 |-------------|--------------|------|
 | 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | SECJ1013 // A repository of my current practice codes & assignments | `C++`|
 
-> ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*  
----
+> ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)* ---
 
 ### 💡 Daily Motivation
 <p align="center">
