@@ -33,7 +33,7 @@
 ### 📊 My Activity Hub
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square&label=STALKER+COUNTS" alt="Profile views" />
+  <img width="48%" src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center">
