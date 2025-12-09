@@ -26,7 +26,6 @@
 * **Secretary - UTM Games 2025 KTR** - *Managed 273 athletes such as merit distribution, coordinated with college fellow with logistics, operation and risk management*
 * **Secretary - DwiFit 1.0**
 * **Treasurer - Majlis Apresiasi Atlet KTR**
-* **MUET Band 5.0**
 
 ---
 
