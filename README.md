@@ -12,12 +12,12 @@
 ### 🧠 About Me  
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently **YEAR 1** student *(SECPH)*
-- 📸 Instagram: [charles_leclerc](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- 📊 Exploring the world of **AI, machine learning**, and **data engineering**
+- 📸 Instagram: [uminous_evernight](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 📊 Exploring the world of **AI, agentic coding**, and **data engineering**
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**
 - 📧 Contact me: [muhammadhafiz.s@graduate.utm.my](mailto:muhammadhafiz.s@graduate.utm.my)
 - 🏫 Prior Education: SMK Taman Perwira  
-- ⚡ Fun fact: I sometimes debug with chillstep music 🎧  
+- ⚡ Fun fact: I love debugging in library 🎧  
 
 ---
 
@@ -26,7 +26,7 @@
 * **Lembaga Pengawas Sekolah** - *Helped teachers and fellow prefect in controlling disciplinary issues, and become an aspiring peers leader*
 * **Jawatankuasa Kolej Pelajar Kolej Tun Razak 2025** - *Exco Sukan dan Rekreasi*
 * **Secretary - UTM Games 2025 KTR** - *Managed 273 athletes such as merit distribution, coordinated with college fellow with logistics, operation and risk management*
-* **Secretary - DwiFit 1.0**
+* **Secretary - DwiFit**
 * **Treasurer - Majlis Apresiasi Atlet KTR**
 
 ---
