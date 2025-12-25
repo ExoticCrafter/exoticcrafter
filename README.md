@@ -33,21 +33,25 @@
 ### 🎓 Education
 | Year | Institution | Qualification |
 | :--- | :--- | :--- |
-| **2024 - Present** | **Universiti Teknologi Malaysia (UTM)** | *Bachelor of Computer Science (Data Engineering) with Honours* |
-| **Prior** | **SMK Taman Perwira** | *Secondary Education* |
+| **2025 - Present** | **Universiti Teknologi Malaysia (UTM)** | *Bachelor of Computer Science (Data Engineering) with Honours (Currently studying)* |
+| **2024 - 2025** | **Universiti Teknologi Malaysia (UTM)** | *Foundation in Life Science* |
+| **2018 - 2022** | **SMK Taman Perwira** | *Sijil Pelajaran Malaysia (7A)* |
 
 ---
 
 ### 💼 Leadership & Experience
 | Position | Activity / Club | Experience |
 | :--- | :--- | :--- |
-| **Exco** | Jawatankuasa Kolej Pelajar (JKP) | *Sukan dan Rekreasi*: Organize and facilitate sports and recreational activities for college residents. |
-| **Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
-| **Secretary** | DwiFit | Managed administrative tasks, meeting minutes, and documentation. |
-| **Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
-| **Chairman** | Robotic CLub | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
-| **Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
-| **Members** | Lembaga Pengawas Sekolah | Reduced the school disciplinary issues by 31% by enforcing school rules, provided control during school events etc |
+| **💼 Exco** | Jawatankuasa Kolej Pelajar (JKP) | *Sukan dan Rekreasi*: Organize and facilitate sports and recreational activities for college residents. |
+| **🚀 Director** | 4 Balls | Directed and lead KTR residents to participate in Volleyball, Netball, Futsal and Basketball in the college ground |
+| **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
+| **✈️ Trip Leader** | Festival of Ideas (FOI) Putrajaya | Assisted Pn Fairuzneza to coordinate movement of participants in Putrajaya International Convention Centre (PICC). |
+| **📝 Secretary** | DwiFit | Managed administrative tasks, meeting minutes, and documentation. |
+| **💸 Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
+| **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
+| **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
+| **👔 Vice Chairman** | Persatuan Pendidikan Islam | Organised and coordinated multiple Islamic and religious activities for the commitee members.|
+| **👨‍💼 Members** | Lembaga Pengawas Sekolah | Reduced the school disciplinary issues by 31% by enforcing school rules, provided control during school events etc |
 
 ---
 
@@ -66,7 +70,6 @@
 | :--- | :--- | :--- |
 | **Git & GitHub Foundations** *(Example)* | GitHub / LinkedIn Learning | 2024 |
 | **Participant** | UTM Data Science Workshop | 2024 |
-| *(Add your certificates here)* | | |
 
 ---
 
@@ -81,8 +84,8 @@
 ### 📂 Featured Projects
 | 🚀 Project | Description | Tech Stack |
 |:---|:---|:---|
-| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | A repository of my current practice codes & assignments for SECJ1013. | `C++` |
-| 🤖 **Personal Portfolio** | This GitHub profile serves as my central hub for academic and project showcase. | `Markdown` `Git` |
+| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | A repository of my current practice codes & assignments for SECJ1013. | `C++` `Flowchart` `Pseudocode`|
+| 🤖 **Personal Portfolio** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `Markdown` `HTML` `CSS` `JavaScript` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
 
