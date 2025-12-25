@@ -61,4 +61,5 @@
 ### 💡 Daily Motivation
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=maroongold&font=Marcellus" alt="Daily Coding Quote" />
+    <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
