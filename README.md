@@ -76,6 +76,7 @@
 | **KARNIVAL SUKAN MINGGU MESRA MAHASISWA 2025** | Sport | 01/10/2025 |
 | **KEPENTINGAN PENJAGAAN KESIHATAN MENTAL** | Volunteer | 01/12/2025 |
 | **MALAM KEBUDAYAAN MINGGU MESRA MAHASISWA 2025** | Cultural | 01/10/2025 |
+<p> And many more upcoming.... (Too much to list) </p>
 
 
 
