@@ -45,9 +45,11 @@
 | **💼 Exco** | Jawatankuasa Kolej Pelajar (JKP) | *Sukan dan Rekreasi*: Organize and facilitate sports and recreational activities for college residents. |
 | **🚀 Director** | 4 Balls | Directed and lead KTR residents to participate in Volleyball, Netball, Futsal and Basketball in the college ground |
 | **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
-| **✈️ Trip Leader** | Festival of Ideas (FOI) Putrajaya | Assisted Pn Fairuzneza to coordinate movement of participants in Putrajaya International Convention Centre (PICC). |
+| **📝 Secretary** | Majlis Taklimat dan Penyerahan Bendera UTM Games 2025 | Coordinated event flow, ensuring all athlete data is correct. |
+| **📝 Secretary** | Athlete Selection UTM Games 2025 KTR | Supervised the selection process to ensure no inequality happens. |
 | **📝 Secretary** | DwiFit | Managed administrative tasks, meeting minutes, and documentation. |
 | **💸 Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
+| **✈️ Trip Leader** | Festival of Ideas (FOI) Putrajaya | Assisted Pn Fairuzneza to coordinate movement of participants in Putrajaya International Convention Centre (PICC). |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
 | **👔 Vice Chairman** | Persatuan Pendidikan Islam | Organised and coordinated multiple Islamic and religious activities for the commitee members.|
@@ -66,10 +68,16 @@
 ---
 
 ### 📜 Certifications & Participation
-| Certificate / Event | Organization | Date |
+| Certificate / Event | Category | Date |
 | :--- | :--- | :--- |
-| **Git & GitHub Foundations** *(Example)* | GitHub / LinkedIn Learning | 2024 |
-| **Participant** | UTM Data Science Workshop | 2024 |
+| **ASEAN QUANTUM SUMMIT 2025** | International - Participation | 11/12/2025 |
+| **CERAMAH SITUASI SEMASA DENGGI SERTA LANGKAH-LANGKAH PENCEGAHAN** | Volunteer | 01/12/2025 |
+| **DAFTAR KELAB TUN RAZAK 2025/2026 (DAKTAR)** | Leadership | 16/10/2025 |
+| **KARNIVAL SUKAN MINGGU MESRA MAHASISWA 2025** | Sport | 01/10/2025 |
+| **KEPENTINGAN PENJAGAAN KESIHATAN MENTAL** | Volunteer | 01/12/2025 |
+| **MALAM KEBUDAYAAN MINGGU MESRA MAHASISWA 2025** | Cultural | 01/10/2025 |
+
+
 
 ---
 
