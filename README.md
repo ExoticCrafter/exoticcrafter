@@ -1,33 +1,90 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="UTM Logo" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="Profile Pic" width="150" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
-<h2 align="center" style="color:#b8860b;">🎓 Bachelor of Computer Science (Data Engineering) with Honours @ UTM</h2>
-<h3 align="center" style="color:#b8860b;">Faculty of Computing (FC)</h3>
+<h2 align="center">🎓 Bachelor of Computer Science (Data Engineering) with Honours</h2>
+<h3 align="center">📍 Universiti Teknologi Malaysia (UTM)</h3>
 
+<p align="center">
+  <a href="mailto:muhammadhafiz.s@graduate.utm.my">
+    <img src="https://img.shields.io/badge/Email-muhammadhafiz.s%40graduate.utm.my-800000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hafiz-suhaili-728454398/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://exoticcrafter.github.io/">
+    <img src="https://img.shields.io/badge/Website-Personal_Portfolio-b8860b?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently **YEAR 1** student *(SECPH)*
-- 📸 Instagram: [luminous_evernight](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 📸 Instagram: [luminous_evernight](https://www.instagram.com/)
 - 📊 Exploring the world of **AI, agentic coding**, and **data engineering**
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**
-- 📧 Contact me: [muhammadhafiz.s@graduate.utm.my](mailto:muhammadhafiz.s@graduate.utm.my)
-- 🏫 Prior Education: SMK Taman Perwira  
-- ⚡ Fun fact: I love debugging in library 🎧  
+- ⚡ Fun fact: I love debugging in the library 🎧
 
 ---
 
-### 🏆 Education & Achievements
-* **Setiausaha Lembaga Pengawas Sekolah** - *Coordinated tasks, managed disciplinary issues among students and serves as Human Resource for the school prefect*
-* **Lembaga Pengawas Sekolah** - *Helped teachers and fellow prefect in controlling disciplinary issues, and become an aspiring peers leader*
-* **Jawatankuasa Kolej Pelajar Kolej Tun Razak 2025** - *Exco Sukan dan Rekreasi*
-* **Secretary - UTM Games 2025 KTR** - *Managed 273 athletes such as merit distribution, coordinated with college fellow with logistics, operation and risk management*
-* **Secretary - DwiFit**
-* **Treasurer - Majlis Apresiasi Atlet KTR**
+### 🎓 Education
+| Year | Institution | Qualification |
+| :--- | :--- | :--- |
+| **2024 - Present** | **Universiti Teknologi Malaysia (UTM)** | *Bachelor of Computer Science (Data Engineering) with Honours* |
+| **Prior** | **SMK Taman Perwira** | *Secondary Education* |
+
+---
+
+### 💼 Leadership & Experience
+| Position | Activity / Club | Experience |
+| :--- | :--- | :--- |
+| **Exco** | Jawatankuasa Kolej Pelajar (JKP) | *Sukan dan Rekreasi*: Organize and facilitate sports and recreational activities for college residents. |
+| **Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
+| **Secretary** | DwiFit | Managed administrative tasks, meeting minutes, and documentation. |
+| **Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
+| **Chairman** | Robotic CLub | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
+| **Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
+| **Members** | Lembaga Pengawas Sekolah | Reduced the school disciplinary issues by 31% by enforcing school rules, provided control during school events etc |
+
+---
+
+### 📚 Relevant Coursework (SEM 1 2025/2026)
+*As a Data Engineering student, I have completed/am currently taking:*
+* **SECJ1013:** Programming Technique I
+* **SECI1013:** Discrete Structure
+* **SECP1513:** Technology & Information Systems
+* **SECR1013:** Digital Logic
+* **ULRS1032:** Kursus Integriti dan Anti Rasuah
+
+---
+
+### 📜 Certifications & Participation
+| Certificate / Event | Organization | Date |
+| :--- | :--- | :--- |
+| **Git & GitHub Foundations** *(Example)* | GitHub / LinkedIn Learning | 2024 |
+| **Participant** | UTM Data Science Workshop | 2024 |
+| *(Add your certificates here)* | | |
+
+---
+
+### 🛠️ Tech Arsenal
+**Languages & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📂 Featured Projects
+| 🚀 Project | Description | Tech Stack |
+|:---|:---|:---|
+| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | A repository of my current practice codes & assignments for SECJ1013. | `C++` |
+| 🤖 **Personal Portfolio** | This GitHub profile serves as my central hub for academic and project showcase. | `Markdown` `Git` |
+
+> ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
 
 ---
 
@@ -38,28 +95,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExoticCrafter&bg_color=0d0d0d&color=b8860b&line=800000&point=b8860b&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExoticCrafter&bg_color=0d0d0d&color=b8860b&line=800000&point=b8860b&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
----
-
-### 🛠️ Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,mysql,git,github,vscode" />
-</p>
-
----
-
-### 📂 Featured Projects  
-| 🚀 Project | Description | Tech |
-|-------------|--------------|------|
-| 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | SECJ1013 // A repository of my current practice codes & assignments | `C++`|
-
-> ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)* ---
 ---
 
 ### 💡 Daily Motivation
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=maroongold&font=Marcellus" alt="Daily Coding Quote" />
-    <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=maroongold&font=Marcellus" alt="Daily Coding Quote" />
 </p>
