@@ -51,6 +51,7 @@
 | **💸 Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
 | **✈️ Trip Leader** | Festival of Ideas (FOI) Putrajaya | Assisted Pn Fairuzneza to coordinate movement of participants in Putrajaya International Convention Centre (PICC). |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
+| **🛒 Sales Assistant**| Bata Primavera | Operated POS system, enhanced my product knowledge to cater customer demands, achieved monthly sales KPI by 9% |
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
 | **👔 Vice Chairman** | Persatuan Pendidikan Islam | Organised and coordinated multiple Islamic and religious activities for the commitee members.|
 | **👨‍💼 Members** | Lembaga Pengawas Sekolah | Reduced the school disciplinary issues by 31% by enforcing school rules, provided control during school events etc |
@@ -76,6 +77,7 @@
 | **KARNIVAL SUKAN MINGGU MESRA MAHASISWA 2025** | Sport | 01/10/2025 |
 | **KEPENTINGAN PENJAGAAN KESIHATAN MENTAL** | Volunteer | 01/12/2025 |
 | **MALAM KEBUDAYAAN MINGGU MESRA MAHASISWA 2025** | Cultural | 01/10/2025 |
+|**NATIONAL ROBOTIC COMPETITION** | Champion-State Level | 28/09/2023 |
 <p> And many more upcoming.... (Too much to list) </p>
 
 
