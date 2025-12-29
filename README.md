@@ -96,6 +96,7 @@
 | 🚀 Project | Description | Tech Stack |
 |:---|:---|:---|
 | 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013) | A repository of my current practice codes & assignments for SECJ1013. | `C++` `Flowchart` `Pseudocode`|
+| 🧮 [**Discrete Structure**](https://github.com/ExoticCrafter/seci1013) | A repository of my lecture slides & assignments for SECI1013. | `Trees` `Sets` `Graphs`|
 | 🤖 **[Personal Portfolio](https://exoticcrafter.github.io/)** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `HTML` `CSS` `JavaScript` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
