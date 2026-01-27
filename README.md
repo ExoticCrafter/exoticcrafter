@@ -35,7 +35,7 @@
 | :--- | :--- | :--- |
 | **2025 - Present** | **Universiti Teknologi Malaysia (UTM)** | *Bachelor of Computer Science (Data Engineering) with Honours (Currently studying)* |
 | **2024 - 2025** | **Universiti Teknologi Malaysia (UTM)** | *Foundation in Life Science // MUET Band 5.0 // CGPA 3.87* |
-| **2018 - 2022** | **SMK Taman Perwira** | *Sijil Pelajaran Malaysia (SPM) // 7A* |
+| **2019 - 2023* | **SMK Taman Perwira** | *Sijil Pelajaran Malaysia (SPM) // 7A* |
 
 ---
 
