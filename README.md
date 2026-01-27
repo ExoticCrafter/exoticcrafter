@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="Profile Pic" width="150" style="border-radius:50%"/>
-</p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
 <h2 align="center">🎓 Bachelor of Computer Science (Data Engineering) with Honours</h2>
