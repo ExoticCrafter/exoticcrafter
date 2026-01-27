@@ -23,7 +23,6 @@
 ### 🧠 About Me
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently a **YEAR 1** student *(SECPH)*
-- 📸 Instagram: [luminous_evernight](https://www.instagram.com/)
 - 📊 Exploring the world of **AI, agentic coding**, and **data engineering**
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**
 - ⚡ Fun fact: I love debugging in the library 🎧
