@@ -42,7 +42,6 @@
 | Position | Activity / Club | Experience |
 | :--- | :--- | :--- |
 | **💼 Exco** | Jawatankuasa Kolej Pelajar (JKP) | *Sukan dan Rekreasi*: Organize and facilitate sports and recreational activities for college residents. |
-| **🚀 Director** | 4 Balls | Directed and lead KTR residents to participate in Volleyball, Netball, Futsal and Basketball in the college ground |
 | **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
 | **📝 Secretary** | Majlis Taklimat dan Penyerahan Bendera UTM Games 2025 | Coordinated event flow, ensuring all athlete data is correct. |
 | **📝 Secretary** | Athlete Selection UTM Games 2025 KTR | Supervised the selection process to ensure no inequality happens. |
