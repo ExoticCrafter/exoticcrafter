@@ -56,13 +56,14 @@
 
 ---
 
-### 📚 Relevant Coursework (SEM 1 2025/2026)
+### 📚 Relevant Coursework (SEM 2 2025/2026)
 *As a Data Engineering student, I am currently taking:*
-* **SECJ 1013:** Programming Technique I
-* **SECI 1013:** Discrete Structure
-* **SECP 1513:** Technology & Information Systems
-* **SECR 1013:** Digital Logic
-* **ULRS 1032:** Kursus Integriti dan Anti Rasuah
+* **SECJ 1023:** Programming Technique II
+* **SECI 1143:** Probability & Statistical Data Analysis
+* **SECP 2613:** System Analysis & Design
+* **SECR 1033:** Computer Organisation & Architecture
+* **SECV 2113** Human Computer Interaction
+* **ULRS 1282:** Appreciation of Ethics & Civilisation
 
 ---
 
