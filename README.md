@@ -47,7 +47,7 @@
 | **📝 Secretary** | Athlete Selection UTM Games 2025 KTR | Supervised the selection process to ensure no inequality happens. |
 | **📝 Secretary** | DwiFit | Managed administrative tasks, meeting minutes, and documentation. |
 | **💸 Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
-| **✈️ Trip Leader** | Festival of Ideas (FOI) Putrajaya | Assisted Pn Fairuzneza to coordinate movement of participants in Putrajaya International Convention Centre (PICC). |
+| **✈️ Trip Leader** | Festival of Ideas (FOI) Putrajaya | Assisted Pn Faiznureza to coordinate movement of participants in Putrajaya International Convention Centre (PICC). |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **🛒 Sales Assistant**| Bata Primavera | Operated POS system, enhanced my product knowledge to cater customer demands, achieved monthly sales KPI by 9% |
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
