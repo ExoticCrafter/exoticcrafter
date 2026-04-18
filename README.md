@@ -23,9 +23,9 @@
 ### 🧠 About Me
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently a **YEAR 1** student *(SECPH)*
-- 📊 Exploring the world of **AI, agentic coding**, and **data engineering**
+- 📊 Exploring the world of **system design, project management, agentic coding**, and **data engineering**
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**
-- ⚡ Fun fact: I love debugging in the library 🎧
+- ⚡ Fun fact: I love aircond so much uwu 🎧
 
 ---
 
