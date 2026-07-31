@@ -52,34 +52,19 @@
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
 | **👔 Vice Chairman** | Persatuan Pendidikan Islam | Organised and coordinated multiple Islamic and religious activities for the commitee members.|
-| **👨‍💼 Members** | Lembaga Pengawas Sekolah | Reduced the school disciplinary issues by 31% by enforcing school rules, provided control during school events etc |
 
 ---
 
-### 📚 Relevant Coursework (SEM 2 2025/2026)
+### 📚 Relevant Coursework (SEM 3 2026/2027)
 *As a Data Engineering student, I am currently taking:*
-* **SECJ 1023:** Programming Technique II
-* **SECI 1143:** Probability & Statistical Data Analysis
-* **SECP 2613:** System Analysis & Design
-* **SECR 1033:** Computer Organisation & Architecture
-* **SECV 2113** Human Computer Interaction
-* **ULRS 1282:** Appreciation of Ethics & Civilisation
+* **SECJ 2013:** DATA STRUCTURE AND ALGORITHM
+* **SECP 2523:** DATABASE (WBL)
+* **SECP 3204:** SOFTWARE ENGINEERING (WBL)
+* **SECP 3723:** SYSTEM DEVELOPMENT TECHNOLOGY (WBL)
+* **SECR 1213** NETWORK COMMUNICATIONS
 
 ---
 
-### 📜 Certifications & Participation
-| Certificate / Event | Category | Date |
-| :--- | :--- | :--- |
-| **ASEAN QUANTUM SUMMIT 2025** | International - Participation | 11/12/2025 |
-| **DAFTAR KELAB TUN RAZAK 2025/2026 (DAKTAR)** | Leadership | 16/10/2025 |
-| **KARNIVAL SUKAN MINGGU MESRA MAHASISWA 2025** | Sport | 01/10/2025 |
-| **MALAM KEBUDAYAAN MINGGU MESRA MAHASISWA 2025** | Cultural | 01/10/2025 |
-|**NATIONAL ROBOTIC COMPETITION** | Champion-State Level | 28/09/2023 |
-<p> And many more upcoming.... (Too much to list) </p>
-
-
-
----
 
 ### 🛠️ Tech Arsenal
 **Languages & Tools**
