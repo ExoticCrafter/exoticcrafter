@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
-- 🌚 Currently a **YEAR 1** student *(SECPH)*
+- 🌚 Currently a **YEAR 2** student *(SECPH)*
 - 📊 Exploring the world of **system design, project management, agentic coding**, and **data engineering**
 - 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**
 - ⚡ Fun fact: I love aircond so much uwu 🎧
@@ -78,7 +78,7 @@
 | 🚀 Project | Description | Contents |
 |:---|:---|:---|
 | 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013-PT1) | A repository of my current practice codes & assignments for SECJ1013. | `C++` `Flowchart` `Pseudocode`|
-| 🧮 [**Discrete Structure**](https://github.com/ExoticCrafter/seci1013-DS) | A repository of my lecture slides & assignments for SECI1013. | `Trees` `Sets` `Graphs`|
+| 🌻 [**Chlorophyll Combat**](https://github.com/ExoticCrafter/chlorophyll-combat) | A collaborative repository for Princess++ team for a reimagined version of Plants vs Zombies by EA Games. | `Encapsulation` `Association` `Inheritance` `Polymorphism`|
 | 🌐 [**Technology & Information System**](https://github.com/ExoticCrafter/secp1513-TIS) | A repository of my lecture slides & assignments for SECP1513. | `Poster` `Vlog`|
 | ⚡ [**Digital Logic**](https://github.com/ExoticCrafter/secr1013-COA) | A repository of my lecture slides & labs for SECR1013. | `Deeds` `K-map`|
 | 🤖 **[Personal Portfolio](https://exoticcrafter.github.io/)** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `HTML` `CSS` `JavaScript` |
