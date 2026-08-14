@@ -80,7 +80,6 @@
 | 💡 [**Programming Technique I**](https://github.com/ExoticCrafter/secj1013-PT1) | A repository of my current practice codes & assignments for SECJ1013. | `C++` `Flowchart` `Pseudocode`|
 | 🌻 [**Chlorophyll Combat**](https://github.com/ExoticCrafter/chlorophyll-combat) | A collaborative repository for Princess++ team for a reimagined version of Plants vs Zombies by EA Games. | `Encapsulation` `Association` `Inheritance` `Polymorphism`|
 | 🌐 [**Technology & Information System**](https://github.com/ExoticCrafter/secp1513-TIS) | A repository of my lecture slides & assignments for SECP1513. | `Poster` `Vlog`|
-| ⚡ [**Digital Logic**](https://github.com/ExoticCrafter/secr1013-COA) | A repository of my lecture slides & labs for SECR1013. | `Deeds` `K-map`|
 | 🤖 **[Personal Portfolio](https://exoticcrafter.github.io/)** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `HTML` `CSS` `JavaScript` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
