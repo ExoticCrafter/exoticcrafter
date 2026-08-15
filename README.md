@@ -44,9 +44,6 @@
 | **💼 Exco** | Jawatankuasa Kolej Pelajar (JKP) | *Sukan dan Rekreasi*: Organize and facilitate sports and recreational activities for college residents. |
 | **👔 Director** | KTR Volley Vortex | Orchestrated a college level mixed-gender volleyball championship tournament, supervised by talented referee |
 | **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
-| **📝 Secretary** | Majlis Taklimat dan Penyerahan Bendera UTM Games 2025 | Coordinated event flow, ensuring all athlete data is correct. |
-| **📝 Secretary** | Athlete Selection UTM Games 2025 KTR | Supervised the selection process to ensure no inequality happens. |
-| **📝 Secretary** | DwiFit | Managed administrative tasks, meeting minutes, and documentation. |
 | **💸 Treasurer** | Majlis Apresiasi Atlet KTR | Managed financial records, budget tracking, and fund allocation for exemplary athletes. |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
