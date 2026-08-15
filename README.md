@@ -41,10 +41,9 @@
 ### 🏆 Certifications
 | Certification | Issuer | Verification |
 | :--- | :--- | :--- |
-| **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
-| **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
-| **Google Prompting Essentials Specialization** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
-
+| **Google Advanced Data Analytics** | Coursera | <a href="https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q" target="_blank" rel="noopener noreferrer">🔗 Verify Credential</a> |
+| **Google Data Analytics** | Coursera | <a href="https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3" target="_blank" rel="noopener noreferrer">🔗 Verify Credential</a> |
+| **Google Prompting Essentials Specialization** | Coursera | <a href="https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E" target="_blank" rel="noopener noreferrer">🔗 Verify Credential</a> |
 ---
 
 ### 💼 Leadership & Experience
