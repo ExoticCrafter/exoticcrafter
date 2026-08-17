@@ -58,16 +58,6 @@
 
 ---
 
-### 📚 Relevant Coursework (SEM 3 2026/2027)
-*As a Data Engineering student, I am currently taking:*
-* **SECJ 2013:** DATA STRUCTURE AND ALGORITHM
-* **SECP 2523:** DATABASE (WBL)
-* **SECP 3204:** SOFTWARE ENGINEERING (WBL)
-* **SECP 3723:** SYSTEM DEVELOPMENT TECHNOLOGY (WBL)
-* **SECR 1213:** NETWORK COMMUNICATIONS
-
----
-
 ### 🛠️ Tech Arsenal
 **Languages & Tools**
 <p align="left">
