@@ -24,8 +24,6 @@
 - 😉 My name : **Muhammad Hafiz Bin Suhaili**
 - 🌚 Currently a **YEAR 2** student *(SECPH)*
 - 📊 Exploring the world of **system design, project management, agentic coding**, and **data engineering**
-- 🚀 Currently studying at **Universiti Teknologi Malaysia (UTM)**
-- ⚡ Fun fact: I love aircond so much uwu 🎧
 
 ---
 
@@ -55,16 +53,6 @@
 | **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
-
----
-
-### 📚 Relevant Coursework (SEM 3 2026/2027)
-*As a Data Engineering student, I am currently taking:*
-* **SECJ 2013:** DATA STRUCTURE AND ALGORITHM
-* **SECP 2523:** DATABASE (WBL)
-* **SECP 3204:** SOFTWARE ENGINEERING (WBL)
-* **SECP 3723:** SYSTEM DEVELOPMENT TECHNOLOGY (WBL)
-* **SECR 1213:** NETWORK COMMUNICATIONS
 
 ---
 
