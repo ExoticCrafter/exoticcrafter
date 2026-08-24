@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/232006951?v=4" alt="Profile Pic" width="150" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#800000;">ExoticCrafter</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#800000;">Hafiz</span></h1>
 <h2 align="center">🎓 Bachelor of Computer Science (Data Engineering) with Honours</h2>
 <h3 align="center">📍 Universiti Teknologi Malaysia (UTM)</h3>
 
@@ -21,9 +21,9 @@
 ---
 
 ### 🧠 About Me
-- 😉 My name : **Muhammad Hafiz Bin Suhaili**
-- 🌚 Currently a **YEAR 2** student *(SECPH)*
-- 📊 Exploring the world of **system design, project management, agentic coding**, and **data engineering**
+- My name : **Muhammad Hafiz Bin Suhaili**
+- Currently a **YEAR 2** student *(SECPH)*
+- Exploring the world of **system design, project management, agentic coding**, and **data engineering**
 
 ---
 
