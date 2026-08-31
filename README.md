@@ -10,7 +10,7 @@
   <a href="mailto:hafizsuhaili840@gmail.com">
     <img src="https://img.shields.io/badge/Email-hafizsuhaili840%40gmail.com-800000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-hafiz-suhaili-728454398/">
+  <a href="https://www.linkedin.com/in/muhammad-hafiz-suhaili/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://exoticcrafter.github.io/">
