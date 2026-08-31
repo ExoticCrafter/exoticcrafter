@@ -7,8 +7,8 @@
 <h3 align="center">📍 Universiti Teknologi Malaysia (UTM)</h3>
 
 <p align="center">
-  <a href="mailto:muhammadhafiz.s@graduate.utm.my">
-    <img src="https://img.shields.io/badge/Email-muhammadhafiz.s%40graduate.utm.my-800000?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:hafizsuhaili840@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hafizsuhaili840%40gmail.com-800000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-hafiz-suhaili-728454398/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -23,7 +23,7 @@
 ### 🧠 About Me
 - My name : **Muhammad Hafiz Bin Suhaili**
 - Currently a **YEAR 2** student *(SECPH)*
-- Exploring the world of **system design, project management, agentic coding**, and **data engineering**
+- Exploring the world of **system design, project management** and **agentic coding**
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ### 🏆 Certifications & Awards
-| Certification | Issuer | Verification |
+| Certification | Issuer | Details |
 | :--- | :--- | :--- |
 | **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
 | **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
