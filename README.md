@@ -23,7 +23,7 @@
 ### 🧠 About Me
 - My name : **Muhammad Hafiz Bin Suhaili**
 - Currently a **YEAR 2** student *(SECPH)*
-- From the <span style="color:#0057B8;"><strong>land of food heaven</strong></span> — <span style="color:#F9D616;"><strong>Penang</strong></span> 🤍
+- From the <span style="color:#0057B8;"><strong>land of food heaven</strong></span> — <span style="color:#F9D616;"><strong>Penang</strong></span>
 
 ---
 
@@ -36,15 +36,6 @@
 
 ---
 
-### 🏆 Certifications & Awards
-| Certification | Issuer | Details |
-| :--- | :--- | :--- |
-| **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
-| **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
-| **Google Prompting Essentials Specialization** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
-
----
-
 ### 💼 Leadership & Experience
 | Position | Activity / Club | Experience |
 | :--- | :--- | :--- |
@@ -53,6 +44,14 @@
 | **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
+
+---
+### 🏆 Certifications & Awards
+| Certification | Issuer | Details |
+| :--- | :--- | :--- |
+| **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
+| **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
+| **Google Prompting Essentials Specialization** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
 
 ---
 
