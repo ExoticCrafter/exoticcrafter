@@ -74,15 +74,3 @@
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
 
 ---
-
-### 📊 My Activity Hub
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExoticCrafter&bg_color=0d0d0d&color=b8860b&line=800000&point=b8860b&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
-
----
