@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/badge/Website-Personal_Portfolio-b8860b?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
