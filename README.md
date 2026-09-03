@@ -36,15 +36,6 @@
 
 ---
 
-### 🏆 Certifications & Awards
-| Certification | Issuer | Details |
-| :--- | :--- | :--- |
-| **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
-| **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
-| **Google Prompting Essentials Specialization** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
-
----
-
 ### 💼 Leadership & Experience
 | Position | Activity / Club | Experience |
 | :--- | :--- | :--- |
@@ -53,6 +44,14 @@
 | **📝 Secretary** | UTM Games 2025 (Kolej Tun Razak) | Managed 273 athletes, handled merit distribution, and coordinated logistics/risk management. |
 | **👔 Chairman** | Robotic Club | Lead the school robotic team to compete in district, state, national level and achieve victory for the school.|
 | **📝 Secretary** | Lembaga Pengawas Sekolah | Coordinated tasks, managed disciplinary issues, and served as HR for school prefects. |
+
+---
+### 🏆 Certifications & Awards
+| Certification | Issuer | Details |
+| :--- | :--- | :--- |
+| **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
+| **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
+| **Google Prompting Essentials Specialization** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
 
 ---
 
@@ -73,17 +72,5 @@
 | 🤖 **[Personal Portfolio](https://exoticcrafter.github.io/)** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `HTML` `CSS` `JavaScript` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
-
----
-
-### 📊 My Activity Hub
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExoticCrafter&bg_color=0d0d0d&color=b8860b&line=800000&point=b8860b&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
 
 ---
