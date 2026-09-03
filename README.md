@@ -23,7 +23,7 @@
 ### 🧠 About Me
 - My name : **Muhammad Hafiz Bin Suhaili**
 - Currently a **YEAR 2** student *(SECPH)*
-- Exploring the world of **system design, project management** and **agentic coding**
+- From the <span style="color:#0057B8;"><strong>land of food heaven</strong></span> — <span style="color:#F9D616;"><strong>Penang</strong></span> 🤍
 
 ---
 
