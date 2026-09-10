@@ -26,7 +26,7 @@
 ### 🧠 About Me
 - My name : **Muhammad Hafiz Bin Suhaili**
 - Currently a **YEAR 2** student *(SECPH)*
-- Interest in **AWS** and **Microsoft Azure** data engineering platform
+- Interest in **AWS** data engineering platform
 
 ---
 
