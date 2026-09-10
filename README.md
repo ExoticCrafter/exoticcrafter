@@ -54,6 +54,7 @@
 | :--- | :--- | :--- |
 | **Google Advanced Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/M8UFU9XICC4Q) |
 | **Google Data Analytics** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/6KDJ85JA7GI3) |
+| **Google Business Intelligence Professional Certificate** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/X70MLCLUUR4M) |
 | **Google Prompting Essentials Specialization** | Coursera | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
 
 ---
