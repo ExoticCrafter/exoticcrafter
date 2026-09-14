@@ -71,7 +71,7 @@
 | 🚀 Project | Description | Contents |
 |:---|:---|:---|
 | 🌻 [**Chlorophyll Combat**](https://github.com/ExoticCrafter/chlorophyll-combat) | A collaborative repository for Princess++ team for a reimagined version of Plants vs Zombies by EA Games. | `Encapsulation` `Association` `Inheritance` `Polymorphism`|
-| 🤖 **[Personal Portfolio](hhttps://github.com/ExoticCrafter/exoticcrafter.github.io)** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `HTML` `CSS` `JavaScript` |
+| 🤖 **[Personal Portfolio](https://github.com/ExoticCrafter/exoticcrafter.github.io)** | This GitHub website serves as an ePortfolio for me to show my journey and reflection throughout my journey in UTM | `HTML` `CSS` `JavaScript` |
 
 > ✨ *Explore more at my [repositories](https://github.com/ExoticCrafter?tab=repositories)*
 
