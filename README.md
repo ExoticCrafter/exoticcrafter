@@ -62,7 +62,7 @@
 ### 🛠️ Tech Arsenal
 **Languages & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,sql,git,github,vscode" />
 </p>
 
 ---
