@@ -57,6 +57,7 @@
 | **Google Business Intelligence Professional Certificate** | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/X70MLCLUUR4M) |
 | **Google Prompting Essentials Specialization** | [🔗 Verify Credential](https://www.coursera.org/account/accomplishments/specialization/ON0KODXIUL0E) |
 | **Exploring Networking with Cisco Packet Tracer** | [🔗 Verify Credential](https://www.netacad.com/certificates/?issuanceId=bc258500-0e24-4a30-8fa4-e8e26d24b99f) |
+| **Getting Started with Cisco Packet Tracer** | [🔗 Verify Credential](https://www.netacad.com/certificates/?issuanceId=67cae9ac-339b-4f94-97f1-18cd4a78efd6) |
 
 ---
 
